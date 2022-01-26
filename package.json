@@ -2,6 +2,7 @@
   "name": "apigw-step-functions-cdk",
   "author": "Kamau Washington",
   "version": "0.0.0",
+  "license": "MIT",
   "bin": {
     "apigw-step-functions-cdk": "bin/apigw-step-functions-cdk.js"
   },
