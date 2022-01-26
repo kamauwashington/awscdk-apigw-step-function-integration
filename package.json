@@ -1,6 +1,7 @@
 {
   "name": "apigw-step-functions-cdk",
-  "version": "0.1.0",
+  "author": "Kamau Washington",
+  "version": "0.0.0",
   "bin": {
     "apigw-step-functions-cdk": "bin/apigw-step-functions-cdk.js"
   },
