@@ -3,9 +3,11 @@
 > This repository is purely for reference and is illustrative in it is purpose.
 
 
-This project illustrates using the AWS CDK v2 to create an API Gateway endpoint that posts directly to a Step Function. While this solution can be coded in a single function, the goal here was to show an example of two Lambdas in sequence in a Step Function returning synchronously. Think of having multiple teams using different languages orchestrating a larger solution in a lego block fashion.
+This project illustrates using the AWS CDK v2 to create an API Gateway endpoint that posts directly to a Step Function. While this solution can be coded in a single function, the goal here was to show an example of two Lambdas in sequence in a Step Function returning synchronously. Think of having multiple teams using different languages orchestrating a larger solution in a lego block fashion. This simple use case is to **find the nearest airport to the coordinates provided**, and uses a JSON file
+as its source of truth.
 
 This example contains VTL transformation w/ logic as a response.
+
 
 ## Prerequisites
 
